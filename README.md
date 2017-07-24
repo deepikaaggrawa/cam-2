@@ -1,5 +1,4 @@
-# cam-2
-Repository for CAM2 Project
+
 lines = []
 with open('sources.txt', 'rt') as in_file:
     for line in in_file:
